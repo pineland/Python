@@ -1,2 +1,2 @@
-# Python
-Python 개발환경 구축 및 프로그래밍
+# Python & Jupyter Notebook
+Python 프로그래밍 및 Jupyter Notebook
